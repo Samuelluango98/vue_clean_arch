@@ -1,6 +1,6 @@
 <template>
   <q-page class="flex flex-center">
-    <q-card class="q-pa-lg" style="width: 95%; height: 350px">
+    <q-card class="q-pa-lg" style="width: 95%; height: 500px; overflow: auto">
       <div class="row justify-end">
         <q-btn
           @click="getData()"
